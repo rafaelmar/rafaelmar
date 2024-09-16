@@ -5,4 +5,6 @@ with the MVC model, with the creation of APIs and the use of existing ones.
 
 ## Where to find me
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 - [LinkedIn](https://www.linkedin.com/in/rafael-martinez-691539127/)
